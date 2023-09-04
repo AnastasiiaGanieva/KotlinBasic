@@ -1,7 +1,7 @@
 fun main() {
    val year = 1961
-   var hour = "09"
-    var minute = ":07"
+   var hour = "09" //10
+    var minute = ":07" //":55"
 
 
     //var multiString= """

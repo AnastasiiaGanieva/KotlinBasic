@@ -1,5 +1,5 @@
 fun main() {
-    var number = 6
+    var number = 8
     var counter = 1
 
     while (counter < 10) {

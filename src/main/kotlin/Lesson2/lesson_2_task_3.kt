@@ -9,8 +9,6 @@ fun main() {
     val arrivalMinute = timeOfLeavingMinute + timeInRoadMinute
     val notes = ":"
 
-
-
  println("$arrivalHour$notes$arrivalMinute")
 
 }
